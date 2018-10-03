@@ -4,7 +4,7 @@ The function is based on repadmin /showobjmeta. The function use a regex to pars
 Specify DC if you want repadmin to query a specific DC. If not specified, the function will find the closest DC from your location.
 
 
-# Get-ADGroupHistory
+# Example
 Return the group history for Group1
 ```powershell
 Get-ADGroupHistory -Name Group1 -DomainController DC01
