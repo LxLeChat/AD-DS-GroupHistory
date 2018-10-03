@@ -1,5 +1,5 @@
 
-Function Get-GroupHistory {
+Function Get-ADGroupHistory {
 	<#
     .SYNOPSIS
     Permet de retourner la dernier du dernier ajout/suppression d'un membre d'un groupe.
